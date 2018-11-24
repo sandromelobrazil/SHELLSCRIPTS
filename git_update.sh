@@ -68,6 +68,11 @@ func_initrepo_main()
 	func_gitcreaterepo PENTEST_GREEN_BELT
 	func_gitcreaterepo SHELLSCRIPTS
 	func_gitcreaterepo BOOKS_RESOURCES
+	func_gitcreaterepo HONEYPOT_UNIRON
+	func_gitcreaterepo MALIBU
+	func_gitcreaterepo PEDEMOLEQUE
+	func_gitcreaterepo REAL_FORENSICS
+	func_gitcreaterepo TAMBAQUI_CORP
 	echo .
 }
 
