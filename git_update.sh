@@ -73,6 +73,7 @@ func_initrepo_main()
 	func_gitcreaterepo PEDEMOLEQUE
 	func_gitcreaterepo REAL_FORENSICS
 	func_gitcreaterepo TAMBAQUI_CORP
+	func_gitcreaterepo wifihacking
 	echo .
 }
 
