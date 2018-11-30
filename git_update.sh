@@ -75,6 +75,7 @@ func_initrepo_main()
 	func_gitcreaterepo TAMBAQUI_CORP
 	func_gitcreaterepo wifihacking
 	func_gitcreaterepo PCAP_wireshark
+	func_gitcreaterepo PCAP_curso
 	echo .
 }
 
