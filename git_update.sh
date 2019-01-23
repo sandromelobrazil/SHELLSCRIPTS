@@ -64,10 +64,12 @@ func_gitsimpleupdate()
 
 func_initrepo_main()
 {
-	#func_gitcreaterepo Python_Para_Pentes1
+	func_gitcreaterepo Python_Para_Pentes1
 	func_gitcreaterepo PENTEST_GREEN_BELT
 	func_gitcreaterepo SHELLSCRIPTS
 	func_gitcreaterepo BOOKS_RESOURCES
+	func_gitcreaterepo web_vulnerable
+	func_gitcreaterepo Python_for_Pentesters
 	func_gitcreaterepo HONEYPOT_UNIRON
 	func_gitcreaterepo MALIBU
 	func_gitcreaterepo PEDEMOLEQUE
